@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteSmoke">
+  <test thread-count="5" name="sprint1">
+    <classes>
+      <class name="paractice.selenium.Testclass3"/>
+    </classes>
+  </test> <!-- sprint1 -->
+</suite> <!-- SuiteSmoke -->
