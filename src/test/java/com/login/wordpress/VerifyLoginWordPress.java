@@ -9,10 +9,12 @@ import org.testng.annotations.Test;
 
 import com.wordpress.com.wordpress;
 
+import base.BaseTest;
+
 /**
  * 
  */
-public class VerifyLoginWordPress
+public class VerifyLoginWordPress extends BaseTest
 
 {
 
